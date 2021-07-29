@@ -1,0 +1,12 @@
+{
+   "autoload":{
+       "psr-4": {
+           "app\\":"app/"
+       }
+   },
+   "require":{
+      "illuminate/database": "^8.42",
+      "laminas/laminas-diactoros": "^2.6",
+      "aura/router": "^3.1"
+   }     
+}
